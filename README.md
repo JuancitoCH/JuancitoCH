@@ -1,7 +1,7 @@
 ## Hi there I'm Juan!
 **Backend Dev**
 
-- 🔭 I’m currently working on Greenie Web as Backend Dev
+- 🔭 I’m currently working on TechBite CR as Full Stack Dev
 - 🌱 I’m currently learning Microservices and cloud integrations
 - 📫 How to reach me: cjuan.chona@hotmail.com
 
